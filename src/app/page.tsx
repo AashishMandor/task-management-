@@ -30,7 +30,7 @@ export default async function Home() {
         </div>
       </div>
       <footer className="mt-20 text-sm text-gray-500 dark:text-gray-400">
-        © {new Date().getFullYear()} Task Manager • Built with ❤️ in Indore
+        © {new Date().getFullYear()} Task Manager • Built with ❤️ in Ujjain
       </footer>
     </div>
   );
